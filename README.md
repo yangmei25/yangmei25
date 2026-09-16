@@ -4,7 +4,7 @@ I am a computational biologist and microbiologist building reproducible bioinfor
 
 ## Featured work
 
-### [ESM-2 Protein Localization](https://github.com/yangmei25/esm2-protein-localization)
+### [ESM-2 Protein Localization Benchmark and Inference System](https://github.com/yangmei25/esm2-protein-localization-benchmark)
 
 An end-to-end protein language-model project spanning biological and classical baselines, frozen embeddings, multi-seed fine-tuning, homology-filtered external evaluation, subtype failure analysis, long-protein inference, and a tested FastAPI service.
 
@@ -13,7 +13,7 @@ An end-to-end protein language-model project spanning biological and classical b
 - Subtype-aware modeling improved peripheral-protein recall from **0.325 to 0.549**.
 - Delivered with **FastAPI, Docker, GitHub Actions, and 40 automated tests**.
 
-### [scGPT–Scanpy NSCLC Single-Cell Benchmark](https://github.com/yangmei25/scgpt-scanpy-nsclc-single-cell-demo)
+### [NSCLC Single-Cell Foundation Model Benchmark](https://github.com/yangmei25/nsclc-single-cell-foundation-model-benchmark)
 
 A patient- and sample-aware comparison of conventional Scanpy/PCA and frozen scGPT representations across **29,614 NSCLC cells from 10 metastatic lymph-node samples**.
 
